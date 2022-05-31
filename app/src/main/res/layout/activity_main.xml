@@ -29,6 +29,7 @@
         android:id="@+id/bottom_nav_menu"
         android:layout_width="match_parent"
         android:layout_height="50dp"
+        app:menu="@menu/bottom_nav_menu"
         android:background="@color/light_gray"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

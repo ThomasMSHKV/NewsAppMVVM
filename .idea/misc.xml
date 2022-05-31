@@ -3,10 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_favorite.xml" value="0.1675" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_home.xml" value="0.1675" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_search.xml" value="0.1675" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/font/font.xml" value="0.28974358974358977" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.26" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_details.xml" value="0.2640625" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_favorite.xml" value="0.2640625" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_main.xml" value="0.2640625" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_splash.xml" value="0.2640625" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/menu/menu.xml" value="0.2640625" />
       </map>
     </option>
