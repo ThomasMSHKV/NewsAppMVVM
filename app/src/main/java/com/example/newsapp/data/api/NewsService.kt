@@ -1,4 +1,4 @@
-package com.example.newsapp.data
+package com.example.newsapp.data.api
 
 import com.example.newsapp.utils.Constants.Companion.API_KEY
 import retrofit2.http.GET

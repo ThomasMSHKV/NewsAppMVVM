@@ -8,7 +8,9 @@ import android.view.ViewGroup
 import com.example.newsapp.R
 import com.example.newsapp.databinding.FragmentDetailsBinding
 import com.example.newsapp.databinding.FragmentMainBinding
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class MainFragment : Fragment() {
 
     private var _binding: FragmentMainBinding? = null
