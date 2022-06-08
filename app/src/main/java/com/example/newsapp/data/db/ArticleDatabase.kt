@@ -7,7 +7,6 @@ import com.example.newsapp.models.Article
 
 abstract class ArticleDatabase: RoomDatabase() {
 
-
     abstract fun getArticleDao(): ArticleDao
 
     companion object {

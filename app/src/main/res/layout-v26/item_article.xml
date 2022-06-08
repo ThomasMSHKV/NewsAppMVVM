@@ -12,6 +12,7 @@
         android:layout_width="88dp"
         android:layout_height="84dp"
         android:scaleType="centerCrop"
+        android:background="@drawable/bg_image_10"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -41,7 +42,7 @@
             android:ellipsize="end"
             android:maxLines="3"
             android:textColor="@color/grayBlack"
-            android:textFontWeight="700"
+            android:fontWeight="700"
             android:textStyle="bold"
             tools:text="Musk invited to UK Parliament to discuss 44$ billion Twitter buyout" />
 
