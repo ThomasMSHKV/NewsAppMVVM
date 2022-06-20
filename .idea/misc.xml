@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1675" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/bg_image_10.xml" value="0.1675" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/edit_back.xml" value="0.1675" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_back.xml" value="0.1675" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_favorite.xml" value="0.1675" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_heart.xml" value="0.1675" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_home.xml" value="0.1675" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1675" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_search.xml" value="0.1675" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/font/font.xml" value="0.28974358974358977" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/NewsApp/app/src/main/res/layout-v26/item_article.xml" value="0.2" />
